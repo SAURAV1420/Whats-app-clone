@@ -1,0 +1,17 @@
+.footer {
+  background-color: #4bdc80;
+  color: black;
+}
+.recommendation > p > span {
+  color: rgb(242, 49, 49);
+}
+
+.recommendation > p > a:hover {
+  color: rgb(159, 131, 131);
+  text-decoration: underline;
+}
+
+.footer_des {
+  margin-top: 5px;
+  opacity: 0.5;
+}
